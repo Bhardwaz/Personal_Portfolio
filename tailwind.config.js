@@ -8,6 +8,9 @@ module.exports = {
     screens: {
       'mobile':{'min':'0px', 'max':'500px'},
     },
+    fontFamily:{
+      'body':["Sacramento"]
+    }
   },
   plugins: [],
 }
